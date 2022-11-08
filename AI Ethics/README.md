@@ -1,1 +1,1 @@
-# Kaggle: AI Ethics
+# Kaggle: Introduction to AI Ethics
