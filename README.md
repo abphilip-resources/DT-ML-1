@@ -1,10 +1,10 @@
 # Data: Kaggle Courses I
 
-- Intro to AI Ethics
-- Data Cleaning
-- Feature Engineering
-- Introduction to Machine Learning
-- Pandas
-- Programming
-- Python
-- Data Visualization
+- [x] [**`Pandas`**]() 
+- [x] [**`Python`**]() 
+- [x] [**`Data Cleaning`**]()
+- [x] [**`Data Visualization`**]()
+- [x] [**`Feature Engineering`**]()
+- [x] [**`Intro to AI Ethics`**]()
+- [x] [**`Intro to Programming`**]()
+- [x] [**`Intro to Machine Learning`**]()
