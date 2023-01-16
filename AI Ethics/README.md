@@ -1,4 +1,4 @@
-# Kaggle: AI Ethics
+# Kaggle: Introduction to AI Ethics
 
 **Introduction to AI Ethics :**
 [`Lesson`](https://github.com/abphilip-resources/DT-ML-1/blob/master/AI%20Ethics/A1.ipynb)
